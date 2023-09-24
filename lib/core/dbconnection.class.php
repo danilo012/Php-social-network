@@ -1,9 +1,9 @@
 <?php
 
-define ('HOST', 'DB_HOST') ;
-define ('USER', 'DB_USER'  ) ;
-define ('PASS', 'DB_PAS' ) ;
-define ('DB', 'DB_NAME' ) ;
+define ('HOST', 'ep-rough-tree-09327034-pooler.us-east-1.postgres.vercel-storage.com') ;
+define ('USER', 'default'  ) ;
+define ('PASS', 'dc2YZujATX4k' ) ;
+define ('DB', 'verceldb' ) ;
 
 use Doctrine\ORM\Tools\Setup;
 use Doctrine\ORM\EntityManager;
